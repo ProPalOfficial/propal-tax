@@ -1,5 +1,4 @@
-# propal-tax
-
+# ProPal-Tax
 Calculate taxes for ProPal Discord bot.
 
 ## Installation
