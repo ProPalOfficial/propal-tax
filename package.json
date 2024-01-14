@@ -1,11 +1,26 @@
 {
   "name": "propal-tax",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "AmtiXDev",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProPalOfficial/propal-tax.git"
+  },
+  "keywords": [
+    "ProPal",
+    "ProBot",
+    "Taxs",
+    "Tax",
+    "ProPal-Tax"
+  ],
+  "bugs": {
+    "url": "https://github.com/ProPalOfficial/propal-tax/issues"
+  },
+  "homepage": "https://github.com/ProPalOfficial/propal-tax#readme",
+  "description": "Calculate taxes for ProPal Discord bot."
 }
